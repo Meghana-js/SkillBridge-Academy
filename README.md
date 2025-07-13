@@ -1,1 +1,1 @@
-# SkillBridge-Academy
+# SkillBridge Academy
