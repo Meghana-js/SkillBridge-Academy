@@ -21,4 +21,4 @@ https://meghana-js.github.io/SkillBridge-Academy/
 
 
 ## 👩‍💻 Author
-Meghana-js
+[Meghana-js](https://github.com/Meghana-js)
