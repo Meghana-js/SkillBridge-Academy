@@ -1,7 +1,9 @@
 <img width="941" height="439" alt="skillbridge-academy-website" src="https://github.com/user-attachments/assets/ee9d7ce2-f471-46a8-8cd1-86a51bf90073" /># SkillBridge Academy
 
-SkillBridge Academy is a frontend website project designed for an educational academy platform.  
-It focuses on clean UI design, structured layout, and basic responsiveness.
+# 🎓 SkillBridge Academy
+
+SkillBridge Academy is a frontend educational website project designed to represent an online learning platform.  
+The project focuses on clean UI design, structured layout, and beginner-friendly website development using HTML and CSS.
 
 ## 🔗 Live Demo
 https://meghana-js.github.io/SkillBridge-Academy/
