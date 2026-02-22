@@ -20,5 +20,28 @@ https://meghana-js.github.io/SkillBridge-Academy/
 ![Uploading skillbridge-academy-website.png…](hero section.png)
 
 
+---
+
+## 📚 Key Learnings
+
+- Structuring web pages using semantic HTML
+- Designing layouts using CSS
+- Creating navigation systems
+- Organizing sections clearly
+- Deploying static websites using GitHub Pages
+
+---
+
+## 🚀 Future Improvements
+
+- Add mobile responsiveness improvements
+- Add JavaScript for interactive features
+- Add contact form validation
+- Convert to full-stack web application with backend
+
+---
+
 ## 👩‍💻 Author
-[Meghana-js](https://github.com/Meghana-js)
+
+**Meghana**  
+GitHub: https://github.com/Meghana-js
