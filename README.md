@@ -11,10 +11,17 @@ https://meghana-js.github.io/SkillBridge-Academy/
 - CSS
 
 ## 📌 Features
-- Simple and clean user interface
-- Navigation menu (Home, Course, Instructors, Contact)
-- Course sections (Fullstack, Cyber Security, Cloud Computing)
-- Beginner-friendly frontend structure
+
+- Clean and modern user interface
+- Navigation menu (Home, Courses, Instructors, Contact)
+- Course sections:
+  - Fullstack Development
+  - Cyber Security
+  - Cloud Computing
+- Structured page layout
+- Beginner-friendly frontend architecture
+- Hosted using GitHub Pages
+
 
 ## 📷 Screenshot
 ![Uploading skillbridge-academy-website.png…](hero section.png)
